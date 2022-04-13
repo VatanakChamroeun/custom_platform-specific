@@ -1,4 +1,4 @@
-# my_app
+# custom_platform_specific
 
 A new Flutter project.
 
